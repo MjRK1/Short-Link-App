@@ -1,0 +1,23 @@
+.authForm {
+    max-height: 100vh;
+    height: 94vh;
+    display: flex;
+    background-color: white;
+    padding: 1.3rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+.authFormSubtitle {
+    color:rgba(51,51,51,0.75);
+    width: 20rem;
+}
+.authFormInput {
+    max-width: 28rem;
+}
+.pageTitle {
+    text-transform: uppercase;
+    letter-spacing: 0.1rem;
+}
+
