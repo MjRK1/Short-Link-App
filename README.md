@@ -52,5 +52,5 @@ To launch the application, clone the repository for yourself and run
 On the authorization page, you will have to log in or register, for the last two days I have been doing just that, so if you will beat me with sticks for terrible validation - hit harder.
 After authorization, you will see the input field for your link (and another terrible validation) and will be able to (I hope) get your shortened link. All links and statistics on them with pagination will be displayed below (not the server side, unfortunately)
 To access the sites via a short link, enter in the browser line:
-### http://79.143.31.216/s/*YOUR SHORT-LINK*
+### http://79.143.31.216/s/ <- your short-link
 Enjoy your use!
