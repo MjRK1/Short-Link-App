@@ -13,7 +13,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
-
+№№№
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
@@ -44,3 +44,13 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+## Short Link App
+To launch the application, clone the repository for yourself and run
+### npm install
+, then run
+### npm start
+On the authorization page, you will have to log in or register, for the last two days I have been doing just that, so if you will beat me with sticks for terrible validation - hit harder.
+After authorization, you will see the input field for your link (and another terrible validation) and will be able to (I hope) get your shortened link. All links and statistics on them with pagination will be displayed below (not the server side, unfortunately)
+To access the sites via a short link, enter in the browser line:
+### http://79.143.31.216/s/*YOUR SHORT-LINK*
+Enjoy your use!
