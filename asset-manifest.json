@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Short-Link-App/static/css/main.4194e732.css",
-    "main.js": "/Short-Link-App/static/js/main.bf0db575.js",
+    "main.js": "/Short-Link-App/static/js/main.10da30ff.js",
     "static/media/roboto-all-500-normal.woff": "/Short-Link-App/static/media/roboto-all-500-normal.0ab669b7a0d19b178f57.woff",
     "static/media/roboto-all-700-normal.woff": "/Short-Link-App/static/media/roboto-all-700-normal.a457fde362a540fcadff.woff",
     "static/media/roboto-all-400-normal.woff": "/Short-Link-App/static/media/roboto-all-400-normal.c5d001fa922fa66a147f.woff",
@@ -36,10 +36,10 @@
     "static/media/roboto-greek-ext-700-normal.woff2": "/Short-Link-App/static/media/roboto-greek-ext-700-normal.bd9854c751441ccc1a70.woff2",
     "index.html": "/Short-Link-App/index.html",
     "main.4194e732.css.map": "/Short-Link-App/static/css/main.4194e732.css.map",
-    "main.bf0db575.js.map": "/Short-Link-App/static/js/main.bf0db575.js.map"
+    "main.10da30ff.js.map": "/Short-Link-App/static/js/main.10da30ff.js.map"
   },
   "entrypoints": [
     "static/css/main.4194e732.css",
-    "static/js/main.bf0db575.js"
+    "static/js/main.10da30ff.js"
   ]
 }
